@@ -1,2 +1,2 @@
 # EpiServer
-Episerver plugin for Imageshop
+Optimizely plugin for Imageshop
